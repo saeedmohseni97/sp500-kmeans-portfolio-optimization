@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/<your-username>/<your-repo>/stargazers"><b>⭐ Star</b></a> •
-  <a href="https://github.com/<your-username>/<your-repo>/fork"><b>🍴 Fork</b></a> •
-  <a href="https://github.com/<your-username>/<your-repo>/issues"><b>🧠 Issues</b></a>
-</p>
-
 # 📈 Unsupervised Trading Strategy on the S&P 500  
 ### *Clustering + Factor Modeling + Portfolio Optimization (10-Year Backtest)*  
 
@@ -34,7 +28,7 @@ Below is the main output of the project showcasing the
 
 > *(Replace this with your final figure)*  
 >
-> ![Strategy vs SPY](./images/performance.png)
+> ![Strategy vs SPY](./output.png)
 
 ---
 
@@ -61,26 +55,22 @@ Below is the main output of the project showcasing the
 
 ## ▶️ How to Run  
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-pip install -r requirements.txt
-jupyter notebook
+git clone https://github.com/saeedmohseni97/sp500-kmeans-portfolio-optimization.git
+Unsupervised Trading Strategy notebook
 ```
 
 ---
 
-# 👨‍💻 Author  
-**Saeed Mohseni Seh Deh**  
-Graduate Researcher  
-Institute for Advanced Computing, Virginia Tech, VA, USA  
+## 👨‍💻 Author
+**Saeed Mohseni**  
+Graduate Researcher, Institute for Advanced Computing  
+Virginia Tech, VA, USA  
 
-🌐 **My Website**  
-📫 **saeedmohseni@vt.edu**
+🌐 [Website](https://saeedmohseni.netlify.app/) | 📫 saeedmohseni@vt.edu  
 
 ---
 
-# 🌟 If you like this project...
-
-⭐ **Star the repository**  
-🍴 **Fork it**  
-🧠 **Discuss ideas or improvements**
+## 🌟 If you like this project...
+⭐ **Star** the repository  
+🍴 **Fork** it  
+🧠 **Discuss** ideas or improvements  
