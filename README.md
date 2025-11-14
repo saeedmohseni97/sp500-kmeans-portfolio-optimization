@@ -1,3 +1,32 @@
+<p align="center">
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" alt="Python Badge"/>
+
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white" alt="Pandas Badge"/>
+
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white" alt="NumPy Badge"/>
+
+  <!-- scikit-learn -->
+  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white" alt="Sklearn Badge"/>
+
+  <!-- Statsmodels -->
+  <img src="https://img.shields.io/badge/Statsmodels-Time%20Series-4D8C57?logo=statsmodels&logoColor=white" alt="Statsmodels Badge"/>
+
+  <!-- PyPortfolioOpt -->
+  <img src="https://img.shields.io/badge/PyPortfolioOpt-Portfolio%20Optimization-491F59?logoColor=white" alt="PyPortfolioOpt Badge"/>
+
+  <!-- Matplotlib -->
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
+
+  <!-- yFinance -->
+  <img src="https://img.shields.io/badge/yFinance-Market%20Data-2E7D32?logoColor=white" alt="yfinance Badge"/>
+
+</p>
+
+
 # 📈 Unsupervised Trading Strategy on the S&P 500  
 ### *Clustering + Factor Modeling + Portfolio Optimization (10-Year Backtest)*  
 
